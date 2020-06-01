@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
 #page-home {
     height: 100vh;
     background: url('../icones/home-background.svg') no-repeat;
-    background-position: 35vw bottom;
+    background-position: 40vw bottom;
 }
 
 #page-home .content {
@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #page-home main {
-    max-width: 560px;
+    max-width: 520px;
     flex: 1;
     display: flex;
     flex-direction: column;
